@@ -3,6 +3,5 @@ What do you call a fake noodle?
 An impasta
 HAHAHAHHA
 
-i have more jokes 
-
-I don't trust those trees. They seem kind of shady 
+colab hw 
+https://colab.research.google.com/drive/1Z3NyzIE-fc0Zh7QAizuRt8TshP7SwYdV#scrollTo=sEXw3__gpoji
