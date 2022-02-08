@@ -1,7 +1,7 @@
-# hw1
-What do you call a fake noodle?
-An impasta
-HAHAHAHHA
+# hw
 
-colab hw 
-https://colab.research.google.com/drive/1Z3NyzIE-fc0Zh7QAizuRt8TshP7SwYdV#scrollTo=sEXw3__gpoji
+colab link: 
+https://colab.research.google.com/drive/1YRvqne1u8KssTuLj-h464ZtmwxxMesAs?usp=sharing
+
+kaggles profile:
+https://www.kaggle.com/stephaniegamino/competitions
