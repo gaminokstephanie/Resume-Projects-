@@ -1,7 +1,8 @@
 # hw
 
-colab link: 
+ #colab link: 
 https://colab.research.google.com/drive/1YRvqne1u8KssTuLj-h464ZtmwxxMesAs?usp=sharing
 
-kaggles profile:
-https://www.kaggle.com/stephaniegamino/competitions
+#kaggles 
+profile: https://www.kaggle.com/stephaniegamino/competitions
+comp: https://www.kaggle.com/c/titanic/leaderboard#
